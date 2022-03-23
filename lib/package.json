@@ -1,6 +1,6 @@
 {
   "name": "@innet/html",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Сonvert jsx elements into html text",
   "main": "index.js",
   "module": "index.es6.js",
@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/d8corp/innet-html",
   "dependencies": {
-    "@innet/utils": "^1.0.0",
+    "@innet/utils": "^1.1.0",
     "innet": "^1.0.0"
   }
 }
